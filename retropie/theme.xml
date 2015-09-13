@@ -9,7 +9,7 @@
 		</image>
 
 		<image name="logo">
-			<path>./art/retropie.png</path>
+			<path>./art/retropie.svg</path>
         </image>
 		
 		<helpsystem name="help">
